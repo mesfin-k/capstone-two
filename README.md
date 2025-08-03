@@ -1,10 +1,10 @@
-# 🛡️ Capstone Two: Fraud Detection with XGBoost
+# Capstone Two: Fraud Detection with XGBoost
 
 Welcome to my fraud detection capstone project, built using Python, XGBoost, and pandas. This project aims to accurately identify fraudulent transactions from anonymized financial data.
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - The dataset contains anonymized transaction data, including numerical and engineered features.
 - Fraud cases (`isFraud = 1`) represent approximately **10%** of all transactions, leading to a class imbalance problem.
@@ -12,7 +12,7 @@ Welcome to my fraud detection capstone project, built using Python, XGBoost, and
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The primary goal is to **detect fraudulent transactions** while minimizing false negatives.  
 This project emphasizes:
@@ -23,7 +23,7 @@ This project emphasizes:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 - Preprocessing & Feature Engineering (`03_preprocessing.ipynb`)
 - Model training & evaluation (`04_modeling.ipynb`)
@@ -34,7 +34,7 @@ This project emphasizes:
 
 ---
 
-## 🧠 Final Model Recommendation
+## Final Model Recommendation
 
 - ✅ **Model:** XGBoost (best trade-off between recall, F1, and ROC-AUC)
 - ✅ **No leakage features**
@@ -47,7 +47,7 @@ This project emphasizes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 capstone-two/
@@ -64,7 +64,7 @@ capstone-two/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/mesfin-k/capstone-two.git
@@ -75,7 +75,7 @@ jupyter notebook notebooks/04_modeling.ipynb
 
 ---
 
-## 📌 Future Work
+## Future Work
 
 - Add SHAP explanations for individual fraud predictions
 - Deploy as a Flask API or streamlit app
@@ -84,7 +84,7 @@ jupyter notebook notebooks/04_modeling.ipynb
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Mesfin Kebede**  
 📍 San Leandro, CA  
