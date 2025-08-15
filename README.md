@@ -18,7 +18,6 @@
 - [ Challenges and Learnings](#-challenges-and-learnings)
 - [ Future Work](#-future-work)
 - [ Repository Structure](#-repository-structure)
-- [ How to Run](#-how-to-run)
 - [ Deliverables](#-deliverables)
 - [ References](#-references)
 - [ Acknowledgements](#-acknowledgements)
