@@ -1,0 +1,26 @@
+{
+  "logistic": {
+    "clf__C": 0.01778279410038923,
+    "clf__class_weight": null,
+    "clf__penalty": "l1"
+  },
+  "random_forest": {
+    "clf__n_estimators": 200,
+    "clf__min_samples_split": 10,
+    "clf__min_samples_leaf": 2,
+    "clf__max_features": "sqrt",
+    "clf__max_depth": 30,
+    "clf__class_weight": "balanced"
+  },
+  "xgboost": {
+    "clf__subsample": 1.0,
+    "clf__scale_pos_weight": 1,
+    "clf__reg_lambda": 0.0,
+    "clf__reg_alpha": 0.5,
+    "clf__n_estimators": 800,
+    "clf__min_child_weight": 1,
+    "clf__max_depth": 9,
+    "clf__learning_rate": 0.1,
+    "clf__colsample_bytree": 0.7
+  }
+}

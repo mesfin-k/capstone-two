@@ -1,0 +1,35 @@
+{
+  "logistic": {
+    "best_f1": {
+      "threshold": 0.44,
+      "f1": 0.8837209302325582
+    },
+    "precision>=0.95": {
+      "threshold": 0.86,
+      "precision": 1.0,
+      "recall": 0.65
+    }
+  },
+  "random_forest": {
+    "best_f1": {
+      "threshold": 0.65,
+      "f1": 0.9473684210526315
+    },
+    "precision>=0.95": {
+      "threshold": 0.65,
+      "precision": 1.0,
+      "recall": 0.9
+    }
+  },
+  "xgboost": {
+    "best_f1": {
+      "threshold": 0.14,
+      "f1": 0.975609756097561
+    },
+    "precision>=0.95": {
+      "threshold": 0.14,
+      "precision": 0.9523809523809523,
+      "recall": 1.0
+    }
+  }
+}

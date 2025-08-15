@@ -1,0 +1,4 @@
+model,val_brier,calibrated,test_AP_raw,test_ROC_raw,test_Brier_raw,test_AP_cal,test_ROC_cal,test_Brier_cal,artifact
+Logistic,0.052399,True,0.927,0.9842,0.042838,0.9251,0.9854,0.015289,logistic_calibrated_pipeline.joblib
+RandomForest,0.002557,False,,,,,,,
+XGBoost,0.000284,False,,,,,,,

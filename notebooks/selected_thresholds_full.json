@@ -1,0 +1,62 @@
+[
+  {
+    "Model": "Logistic",
+    "Strategy": "best F1",
+    "Threshold": 0.44,
+    "F1": 0.8837,
+    "Precision": 0.8261,
+    "Recall": 0.95,
+    "Accuracy": 0.975,
+    "AP (PR-AUC)": 0.9557
+  },
+  {
+    "Model": "Logistic",
+    "Strategy": "precision\u22650.95",
+    "Threshold": 0.86,
+    "F1": 0.7879,
+    "Precision": 1.0,
+    "Recall": 0.65,
+    "Accuracy": 0.965,
+    "AP (PR-AUC)": 0.9557
+  },
+  {
+    "Model": "RandomForest",
+    "Strategy": "best F1",
+    "Threshold": 0.65,
+    "F1": 0.9474,
+    "Precision": 1.0,
+    "Recall": 0.9,
+    "Accuracy": 0.99,
+    "AP (PR-AUC)": 0.9892
+  },
+  {
+    "Model": "RandomForest",
+    "Strategy": "precision\u22650.95",
+    "Threshold": 0.65,
+    "F1": 0.9474,
+    "Precision": 1.0,
+    "Recall": 0.9,
+    "Accuracy": 0.99,
+    "AP (PR-AUC)": 0.9892
+  },
+  {
+    "Model": "XGBoost",
+    "Strategy": "best F1",
+    "Threshold": 0.14,
+    "F1": 0.9756,
+    "Precision": 0.9524,
+    "Recall": 1.0,
+    "Accuracy": 0.995,
+    "AP (PR-AUC)": 0.9951
+  },
+  {
+    "Model": "XGBoost",
+    "Strategy": "precision\u22650.95",
+    "Threshold": 0.14,
+    "F1": 0.9756,
+    "Precision": 0.9524,
+    "Recall": 1.0,
+    "Accuracy": 0.995,
+    "AP (PR-AUC)": 0.9951
+  }
+]
