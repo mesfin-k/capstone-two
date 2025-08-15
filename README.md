@@ -139,8 +139,6 @@ All visuals are generated in notebooks and saved in `results/visualizations/`.
 - Deploy via Flask/API for bank integration.
 
 ##  Repository Structure
-
-## Repository Structure
 ```
 capstone-two/
 │
