@@ -139,6 +139,8 @@ All visuals are generated in notebooks and saved in `results/visualizations/`.
 - Deploy via Flask/API for bank integration.
 
 ##  Repository Structure
+
+## Repository Structure
 ```
 capstone-two/
 │
@@ -163,3 +165,19 @@ capstone-two/
 ├── requirements.txt
 └── README.md
 ```
+## Deliverables
+- Capstone_Two_Report.pdf: Main written report covering problem, process, results, and recommendations (in report/).
+- model_metrics.csv: CSV with model comparison table (in results/).
+- Jupyter Notebooks: Clean, commented, and executable (in notebooks/).
+- README.md: Project summary, navigation guide, and setup instructions (this file).
+
+## References
+- PaySim Dataset: Lopez-Rojas et al. (2016). "PaySim: A financial mobile money simulator for fraud detection."
+- Kaggle Page: ealaxi/paysim1
+- Libraries: Scikit-learn docs, XGBoost paper (Chen & Guestrin, 2016).
+
+## Acknowledgements
+- Dataset Creators: Edgar Lopez-Rojas for PaySim.
+- Mentors & Program: Springboard Data Science Career Track team.
+- Open-Source Tools: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn.
+- Community: Kaggle and Medium articles for inspiration.
