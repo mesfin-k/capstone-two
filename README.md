@@ -1,27 +1,5 @@
 # Capstone Two: Fraud Detection in Financial Transactions
 
- <!-- Replace with an actual banner image, e.g., a visualization from the project or a fraud-themed graphic -->
-
-[](https://www.python.org/)
-[](https://opensource.org/licenses/MIT)
-[](https://github.com/mesfin-k/capstone-two)
-[](https://github.com/mesfin-k/capstone-two/commits/main)
-[](https://www.kaggle.com/datasets/ealaxi/paysim1)
-
-## Table of Contents
-- [ Overview](#-overview)
-- [ Problem Statement](#-problem-statement)
-- [ Dataset](#-dataset)
-- [ Methodology](#-methodology)
-- [ Results](#-results)
-- [ Key Visualizations](#-key-visualizations)
-- [ Challenges and Learnings](#-challenges-and-learnings)
-- [ Future Work](#-future-work)
-- [ Repository Structure](#-repository-structure)
-- [ Deliverables](#-deliverables)
-- [ References](#-references)
-- [ Acknowledgements](#-acknowledgements)
-
 ##  Overview
 This project is a core component of the **Springboard Data Science Career Track Capstone Two**. It focuses on developing a sophisticated **fraud detection model** using the PaySim synthetic dataset, which simulates mobile money transactions in a financial ecosystem. The dataset has been meticulously filtered to include only `TRANSFER` and `CASH_OUT` transaction types—these are the primary vectors for fraudulent activities in the original data.
 
